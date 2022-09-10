@@ -105,3 +105,12 @@ dist
 
 # Editor
 .vscode
+
+# README.md
+.README.md
+
+# assets
+.assets
+
+#LICENSE
+.LICENSE
