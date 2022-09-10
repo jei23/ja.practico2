@@ -110,7 +110,8 @@ dist
 .README.md
 
 # assets
-.assets
-
+.assets/.logos/*.svg
+.assets/.icons/*.svg
+.assets/.icons/*.png
 #LICENSE
 .LICENSE
